@@ -10,5 +10,5 @@ likes: likes Japanese food, Chinese food, Indian food
 name: matija
 likes: food in generel, anime, games singelplayer story driven
 
-name: nico
+name: nico 
 likes: Italian food, Videogames and Series.
