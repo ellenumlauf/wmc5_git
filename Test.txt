@@ -2,13 +2,13 @@ Name: ellen
 likes: burger
 
 Name: goekce
-likes:
+likes: reading, jogging, tv-series and so
 
-Name: mascha
-likes:
+Name: masha
+likes: likes Japanese food
 
 name: matija
 likes: food in generel, anime, games singelplayer story driven
 
 name: nico
-likes:
+likes: Italian food
