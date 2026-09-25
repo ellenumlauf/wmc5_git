@@ -1,0 +1,14 @@
+Name: ellen
+likes: burger
+
+Name: goekce
+likes:
+
+Name: mascha
+likes:
+
+name: matija
+likes:
+
+name: nico
+likes:
