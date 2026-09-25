@@ -4,8 +4,8 @@ likes: burger
 Name: goekce
 likes: reading, jogging, tv-series and so
 
-Name: mascha
-likes:
+Name: masha
+likes: likes Japanese food
 
 name: matija
 likes: food in generel
