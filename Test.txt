@@ -11,4 +11,4 @@ name: matija
 likes: food in generel
 
 name: nico
-likes:
+likes: Italian food
