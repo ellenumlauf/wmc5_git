@@ -11,4 +11,4 @@ name: matija
 likes: food in generel, anime, games singelplayer story driven
 
 name: nico
-likes: Italian food
+likes: Italian food, Videogames and Series.
