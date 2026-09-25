@@ -2,7 +2,8 @@ Name: ellen
 likes: burger
 
 Name: goekce
-likes: reading, jogging, tv-series, partying, chatting
+likes: reading, jogging, tv-series, cinema usw.
+
 
 Name: masha
 likes: likes Japanese food, Chinese food, Indian food
