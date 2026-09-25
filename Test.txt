@@ -5,7 +5,7 @@ Name: goekce
 likes:
 
 Name: masha
-likes: likes Japanese food
+likes: likes Japanese food, Chinese food, Indian food
 
 name: matija
 likes: food in generel
