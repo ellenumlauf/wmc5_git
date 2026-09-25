@@ -2,7 +2,7 @@ Name: ellen
 likes: burger
 
 Name: goekce
-likes:
+likes: reading, jogging, tv-series and so
 
 Name: mascha
 likes:
