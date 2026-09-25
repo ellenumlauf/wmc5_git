@@ -8,7 +8,7 @@ Name: mascha
 likes:
 
 name: matija
-likes:
+likes: food in generel
 
 name: nico
 likes:
