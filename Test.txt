@@ -8,7 +8,7 @@ Name: mascha
 likes:
 
 name: matija
-likes: food in generel
+likes: food in generel, anime, games singelplayer story driven
 
 name: nico
 likes:
