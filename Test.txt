@@ -2,7 +2,7 @@ Name: ellen
 likes: burger
 
 Name: goekce
-likes: reading, jogging, tv-series and so
+likes: reading, jogging, tv-series, partying, chatting
 
 Name: masha
 likes: likes Japanese food
